@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.pytest_cache/
+*.log
+
+# Build artifacts
+build/
+dist/
+release/
+*.exe
+*.zip
+
+# Third-party binaries (users download BCU separately)
+third_party/BCUninstaller/*.exe
+third_party/BCUninstaller/*.dll

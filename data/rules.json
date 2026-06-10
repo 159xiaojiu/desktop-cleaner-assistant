@@ -1,0 +1,27 @@
+{
+  "categories_order": [
+    "浏览器", "办公", "开发", "游戏", "社交", "影音",
+    "工具", "文档", "图片", "压缩包", "安装包", "其他"
+  ],
+  "keyword_rules": {
+    "浏览器": ["chrome", "firefox", "edge", "opera", "browser", "safari", "360安全浏览器", "360极速浏览器", "qq浏览器", "搜狗浏览器", "uc浏览器", "猎豹浏览器", "brave", "夸克", "tabbit", "2345浏览器", "傲游", "百分浏览器", "vivaldi"],
+    "办公": ["word", "excel", "powerpoint", "office", "wps", "outlook", "onenote", "visio", "钉钉", "腾讯会议", "腾讯文档", "石墨", "飞书", "飞连", "notion", "xmind", "幕布", "cajviewer", "caj", "百度网盘", "阿里云盘", "夸克网盘", "网盘", "foxit", "福昕", "pdf", "adobe acrobat", "welink", "zoom", "语雀", "有道云", "印象笔记", "evernote", "obsidian", "金山", "番茄"],
+    "开发": ["vscode", "visual studio", "pycharm", "intellij", "android studio", "github", "gitkraken", "sourcetree", "git ", "navicat", "datagrip", "dbeaver", "postman", "apifox", "docker", "anaconda", "miniconda", "jupyter", "sublime", "notepad++", "xshell", "finalshell", "putty", "mobaxterm", "webstorm", "goland", "clion", "cursor", "trae", "hbuilder", "devc", "eclipse", "idea", "nodejs", "node.js", "python"],
+    "游戏": ["steam", "epic games", "wegame", "uplay", "battle.net", "暴雪", "原神", "英雄联盟", "csgo", "dota", "minecraft", "我的世界", "崩坏", "模拟器", "米哈游", "网易游戏", "穿越火线", "和平精英", "第五人格", "守望先锋", "gog galaxy"],
+    "社交": ["wechat", "微信", "telegram", "discord", "whatsapp", "skype", "messenger", "陌陌", "微博", "抖音", "快手", "qq.exe", "腾讯qq", "soul", "小红书", "qq.lnk", "腾讯tim", "tim.exe"],
+    "影音": ["music", "video", "player", "potplayer", "网易云", "qq音乐", "酷狗", "酷我", "spotify", "爱奇艺", "优酷", "腾讯视频", "芒果tv", "虎牙", "斗鱼", "bilibili", "哔哩哔哩", "迅雷", "格式工厂", "剪映", "premiere", "after effects", "audition", "foobar", "musehub", "wondershare filmora", "filmora", "vlc", "kmplayer", "暴风影音"],
+    "工具": ["360", "杀毒", "火绒", "everything", "winrar", "电脑管家", "ccleaner", "geek", "snipaste", "截图", "clash", "v2ray", "calculator", "记事本", "控制面板", "向日葵", "todesk", "teamviewer", "远程", "驱动精灵", "driver", "鲁大师", "格式", "下载", "迅雷", "idm", "翻译", "扫描全能王", "bcuninstaller", "uninstaller", "卸载"],
+    "图片": ["photoshop", "lightroom", "美图", "光影看图", "snagit", "gimp", "stable diffusion", "comfyui", "画图", "看图王", "2345看图", "图压", "figma", "即时设计", "draw.io", "downloader"],
+    "压缩包": ["7-zip", "bandizip", "好压", "快压"],
+    "安装包": [],
+    "文档": ["论文", "文献", "笔记", "简历", "资料", "报告", "作业", "课程", "学习", "总结", "方案", "合同", "材料", "大纲", "模板", "文档", "记录", "讲义", "教程", "课件", "项目资料", "面试", "求职", "毕业", "实习", "周报", "日报", "计划", "表格", "数据", "考研", "题库", "习题", "复习", "证书", "证件", "发票", "项目", "工作"]
+  },
+  "ext_rules": {
+    "文档": [".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".pdf", ".txt", ".md", ".csv", ".rtf", ".odt"],
+    "图片": [".png", ".jpg", ".jpeg", ".gif", ".bmp", ".webp", ".svg", ".ico", ".tif", ".tiff", ".psd"],
+    "影音": [".mp4", ".avi", ".mkv", ".mov", ".flv", ".wmv", ".mp3", ".wav", ".flac", ".aac", ".m4a"],
+    "压缩包": [".zip", ".rar", ".7z", ".tar", ".gz", ".cab"],
+    "安装包": [".exe", ".msi", ".apk", ".iso"]
+  },
+  "fallback_category": "其他"
+}

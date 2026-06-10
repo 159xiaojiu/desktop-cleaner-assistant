@@ -1,0 +1,8 @@
+把 Bulk Crap Uninstaller (BCU) 的便携版解压到这个文件夹。
+
+要求：本文件夹内能直接看到 BCUninstaller.exe
+
+下载地址（选 portable 便携版）：
+https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/latest
+
+放好后，程序里的【强力卸载】就能直接拉起 BCU。
