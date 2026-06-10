@@ -15,3 +15,8 @@ release/
 # Third-party binaries (users download BCU separately)
 third_party/BCUninstaller/*.exe
 third_party/BCUninstaller/*.dll
+
+# temp upload artifacts
+_push_*
+_batch_*
+_mcp_*
